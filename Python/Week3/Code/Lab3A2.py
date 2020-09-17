@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 Number = int(input("Enter a number (0-9): "))
 def Addition(input):
     add = input + 10

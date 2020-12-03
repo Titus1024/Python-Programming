@@ -2,9 +2,9 @@
 import socket
 
 HOST = '192.168.1.70'    # The target IP address
-PORT = 50007     # Target Port number
-DATA = bytes('Hello World',encoding='utf8')
-HEXDATA = '\x90\x90\x90\x90\x90\x90'
+PORT = 5000     # Target Port number
+DATA = (input('Enter Text: '))
+#HEXDATA = '\x90\x90\x90\x90\x90\x90'
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))

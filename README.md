@@ -1,7 +1,6 @@
 # Python Programming
 
-This repository showcases my skills and projects in Python programming, which I learned from the Python Programming Course offered by the Madison Area Technical College.
-
+This repository showcases my skills and projects in Python programming.
 ## Skills
 
 - Python 3 syntax and data types
